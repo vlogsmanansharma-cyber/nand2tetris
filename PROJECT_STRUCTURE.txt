@@ -1,0 +1,5 @@
+Hack-Computer-Capstone/
+├── Part-A-Computer/       HDL hardware chips and official test evidence folder
+├── Part-B-Assembler/      Python two-pass assembler, sample programs, unit tests
+├── Part-C-Box-Program/    K-based Box.asm generator, Box.hack and Python demo emulator
+└── Documentation/         setup, report, viva and troubleshooting guides
