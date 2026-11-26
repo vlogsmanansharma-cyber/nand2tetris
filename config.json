@@ -1,0 +1,4 @@
+{
+  "K": 70,
+  "note": "Replace 0 with the last two digits of your roll number before generating Box.asm. Example: roll number ending in 41 means K=41."
+}
